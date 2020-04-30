@@ -23,6 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         print("增加111")
         print("10:44提交")
+        print("11111111111")
         
         window?.rootViewController = BasicTabBarController()
         return true
