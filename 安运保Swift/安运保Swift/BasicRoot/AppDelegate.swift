@@ -20,6 +20,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window?.makeKeyAndVisible()
 //        let navController = BasicNavController.init(rootViewController: ViewController())
         
+        
+        print("增加111")
+        print("10:44提交")
+        
         window?.rootViewController = BasicTabBarController()
         return true
     }
