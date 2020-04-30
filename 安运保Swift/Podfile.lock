@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (4.8.1)
+  - MJRefresh (3.1.15.7)
+  - SDWebImage (5.7.3):
+    - SDWebImage/Core (= 5.7.3)
+  - SDWebImage/Core (5.7.3)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MJRefresh
+  - SDWebImage (~> 5.0)
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - MJRefresh
+    - SnapKit
+    - SwiftyJSON
+  trunk:
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  SDWebImage: 97351f6582ceca541ea294ba66a1fcb342a331c2
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: e5848095737f4d798a319580ba27cfc24de6df08
+
+COCOAPODS: 1.9.1

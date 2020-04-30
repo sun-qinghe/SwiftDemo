@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+use_frameworks!
+target '安运保Swift' do
+    
+pod 'Alamofire'
+pod 'SnapKit'
+pod 'MJRefresh'
+pod 'SwiftyJSON'
+pod 'SDWebImage', '~> 5.0'
+
+end
